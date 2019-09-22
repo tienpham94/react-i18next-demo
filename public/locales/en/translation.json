@@ -1,0 +1,17 @@
+{
+  "accordion": {
+  "title1": "What is Internationalization?",
+  "details1":"Internationalization is the process of planning and implementing products and services so that they can easily be adapted to specific local languages and cultures, a process called localization",
+  "title2": "How can we achieve Internationalization in React?"
+},
+"site":"<p>You are visitor number {{count}}.<br/>This site has been <strong>visited {{count}} times.</strong><br/></p>",
+"userSite": "Hello <1>{{name}}</1>, you have <3>{{count}}</3> unread messages.<br/> ",
+  "keyDates":"Today's date :",
+   "formattedDate": "{{date, DD/MM/YYYY}}",
+   "formattedNum":"{{num,,}}",
+   "firstNum": "item",
+  "firstNum_plural": "items",
+  "numWithCount": "{{count}} item",
+  "numWithCount_plural": "{{count}} items"
+
+} 

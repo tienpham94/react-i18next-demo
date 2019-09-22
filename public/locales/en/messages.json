@@ -1,0 +1,6 @@
+{
+  "title": "Welcome to Internationalization in React",
+  "accordionMsg": {
+    "details2":"I18next is one of the most popular and well-established JavaScript frameworks to cater for the complete internationalization needs. React-i18next uses the i18next eco system and provides it in the right way for React applications."
+  }
+}
